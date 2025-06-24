@@ -1,0 +1,8 @@
+Prompt: "In a quiet village where the sun never rose,"
+Output: "...a girl with a lantern of dreams wandered between shadows, trading stories with ghosts and planting hope under moonlight."
+
+Prompt: "The prince had no crown, but he ruled with—"
+Output: "—kindness, and in his silence, the birds sang louder, and the rivers flowed freer than ever before."
+
+Prompt: "The forest was silent, except for—"
+Output: "—the sound of stories waking up inside the roots of the trees."
