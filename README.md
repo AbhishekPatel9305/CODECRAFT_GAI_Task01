@@ -1,4 +1,4 @@
-# 🤖 CODECRAFT_GAI_Task01: Building an AI with a Unique Voice
+# 🤖 CODEALPHA_Task02: Building an AI with a Unique Voice
 
 Welcome to my submission for **Task 01** of the **CodeCraft Generative AI Internship**!  
 This project explores how to fine-tune **GPT-2** to generate text in a specific, human-like voice — making AI sound *less* like AI.
